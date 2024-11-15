@@ -1,4 +1,4 @@
-# Listing knonw planets
+# Listing known planets
 
 
 
